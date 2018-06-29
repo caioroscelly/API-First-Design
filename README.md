@@ -9,8 +9,8 @@
 
 # How to Resolve the problem?
 ## Change the current approach
-![Design-first approach](https://github.com/cminhho/API-First-Design/blob/master/screenshot/design_first_approach.png)
 ### Using design-first approach
+![Design-first approach](https://github.com/cminhho/API-First-Design/blob/master/screenshot/design_first_approach.png)
 ### Code-first vs design-first
 ![Design first approach](https://github.com/cminhho/API-First-Design/blob/master/screenshot/code_first_vs_design_first.png)
 ### The benefits of design-first approach
